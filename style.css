@@ -1,0 +1,24 @@
+* {
+  margin: 0%;
+}
+
+.login{
+  display: flex;
+  flex-direction: column;
+}
+
+.email{
+  width: 25%;
+  height: 2%;
+}
+.senha{
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+  height: 2%;
+}
+.logar{
+  margin-top: 5px;
+  width: 10%;
+  cursor: pointer;
+}
